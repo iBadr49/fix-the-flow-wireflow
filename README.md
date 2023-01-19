@@ -19,6 +19,12 @@ Als ouder wil ik in een dagboek aantekeningen kunnen maken zodat ik niet vergeet
 
 
 ## Resultaat
+### Before TAP/KLIk
+![image](https://user-images.githubusercontent.com/112857932/213443968-5857a130-8f06-48d5-8aa2-68b7222729b6.png)
+
+### After TAP/KLIL
+![image](https://user-images.githubusercontent.com/112857932/213443984-3d92cdb4-fd6e-4a56-9c63-094b19b0acd3.png)
+
 
 ## Licentie
 
