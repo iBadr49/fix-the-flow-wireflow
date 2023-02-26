@@ -21,12 +21,12 @@ Gebruikers zijn de ouders of verzorgers van een kind/kinderen, die vaak meer ris
 ## Beschrijving
 ### 🗒️ User Story
 <!-- Er is een User Story geschreven van de interactie -->
-Als ouder wil ik in een dagboek aantekeningen kunnen maken zodat ik niet vergeet wat er is gebeurd.
+Als ouder wil ik in een dagboek vinimini vragen kunnen beantwoorden of aantekeningen kunnen maken zodat ik niet vergeet wat er is gebeurd.
 
 ### 🖌️ Mijn Wireflow
 <!-- Toon de wireflow -->
 
-<img src="https://user-images.githubusercontent.com/112857932/213443153-4777b1c9-32a7-4ff8-8e44-c47704f827fb.jpg" width="100%">
+<img src="https://user-images.githubusercontent.com/112857932/221437764-16e27713-9053-4205-af14-91dec839d0b1.jpg" width="70%">
 
 ## Kenmerken
 Gebruikte tools:
