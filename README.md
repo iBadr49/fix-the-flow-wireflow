@@ -26,7 +26,7 @@ Als ouder wil ik in een dagboek vinimini vragen kunnen beantwoorden of aantekeni
 ### 🖌️ Mijn Wireflow
 <!-- Toon de wireflow -->
 
-<img src="https://user-images.githubusercontent.com/112857932/221437764-16e27713-9053-4205-af14-91dec839d0b1.jpg" width="70%">
+<img src="https://user-images.githubusercontent.com/112857932/221438748-94e18376-2684-4b27-92b1-18124a634274.jpg" width="70%">
 
 ## Kenmerken
 Gebruikte tools:
